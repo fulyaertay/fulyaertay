@@ -1,10 +1,6 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="300"></br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=69F712&background=000000A5&width=800&lines=Hello+I'm+Fulya.;I'm+a+Junior+Software+Developer." alt="Typing SVG" /></a>
+<br />
 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fulya
-=============================================================================================================================
-
-Jr. Frontend Developer
 ----------------------
 ### :woman_technologist: ME, MYSELF & I :
 
