@@ -6,7 +6,7 @@ Jr. Frontend Developer
 
 I learned HTML, CSS, BootStrap, JavaScript and design tool Figma and now I'm working on React. I also studied the Python, Django for the backend. 
 I am happy to teach you what I know and eager to learn what you will offer.
-Thank you for your visit. 🖖
+
 
 * 🌍  I'm based in İzmir
 * 🧠  I'm learning React, Nodejs
