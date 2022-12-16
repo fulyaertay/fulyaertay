@@ -3,9 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Jr. Frontend Developer
 ----------------------
-
-I learned HTML, CSS, BootStrap, JavaScript and design tool Figma and now I'm working on React. I also studied the Python, Django for the backend. 
-I am happy to share my projects to you!
+### :woman_technologist: About Me :
+•I learned HTML, CSS, BootStrap, JavaScript and design tool Figma and now I'm working on React. 
+•I also studied the Python, Django for the backend. 
+•I am happy to share my projects to you!
 
 
 * 🌍  I'm based in İzmir
