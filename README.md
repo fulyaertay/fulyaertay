@@ -5,10 +5,10 @@
 ### :woman_technologist: ME, MYSELF & I :
 
 
-&emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Computer Engineer but I find myself in software. </font> </br>
+&emsp;&emsp;&emsp;<font color="pink"> 💻 I'm Computer Engineer but I find myself in software. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-&emsp;&emsp;&emsp;<font color="pink"> 🧐 A new Junior Frontend Developer. </font>
+&emsp;&emsp;&emsp;<font color="pink"> 🌱 A new Junior Frontend Developer. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> ☕ Coffee is how I keep up with code.</font> <br>
 
