@@ -48,7 +48,7 @@
 <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center" />
 </div>  
      
-### 💬 Connect with me  
+### 💬 Connect with Me  
 <p align="center">
 <a href="linkedin.com/in/fulya-ertay-40a593156">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
