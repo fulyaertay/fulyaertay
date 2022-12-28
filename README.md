@@ -2,7 +2,7 @@
 <br />
 
 ----------------------
-### :woman_technologist: ME, MYSELF & I :
+### :woman_technologist: Me, Myself & I :
 
 
 &emsp;&emsp;&emsp;<font color="pink"> 💻 I'm Computer Engineer but I find myself in software. </font> </br>
@@ -13,7 +13,7 @@
 &emsp;&emsp;&emsp;<font color="pink"> ☕ Coffee is how I keep up with code.</font> <br>
 
 
-### 💻 SKILL, TOOL & SOFTWARE
+### 💻 Skill, Tool & Software
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,29 +30,29 @@
 <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="200" alt="jira" />
 </p>
 
-### 💡 MOST USED LANGUAGE
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green"
-     alt=""
-     /> <br/>
-     
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+### My GitHub Stats
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/fulyaertay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fulyaertay"><img src="https://github-readme-stats.vercel.app/api?username=fulyaertay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fulyaertay's GitHub stats" /></a>
-
-<a href="https://github.com/fulyaertay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulyaertay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://github.com/fulyaertay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fulyaertay&theme=nightowl&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</div>
 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center" />
 </div>  
+     
+## Connect with me  
+<p align="center">
+<a href="linkedin.com/in/fulya-ertay-40a593156">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+ <a href="https://www.github.com/fulyaertay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="50" /></a> 
+</p>  
+  
+
+<br/>  
