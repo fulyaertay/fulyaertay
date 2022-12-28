@@ -36,7 +36,7 @@
 ### My GitHub Stats
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/fulyaertay">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fulyaertay&theme=nightowl&hide_border=true" />
