@@ -53,7 +53,7 @@
      
 ### 💬 Connect with Me  
 <p align="center">
-<a href="linkedin.com/in/fulya-ertay-40a593156">
+<a href="https://www.linkedin.com/mwlite/in/fulya-ertay-40a593156">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
  <a href="https://www.github.com/fulyaertay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="50" /></a> 
