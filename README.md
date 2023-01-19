@@ -41,6 +41,7 @@
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
