@@ -15,24 +15,50 @@
 
 ### 💻 Skill, Tool & Software
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="200" alt="jira" />
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
- <img src="https://mui.com/static/logo.png" width="36" height="36" alt="Figma" /> 
- <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="36" height="36" alt="Figma" /> 
-
-</p>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Next-blue" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" />     
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
