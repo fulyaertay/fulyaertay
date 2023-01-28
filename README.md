@@ -74,7 +74,7 @@
 </div>
 
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center" />
 </div>  
      
