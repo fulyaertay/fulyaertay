@@ -3,10 +3,10 @@
 
 ----------------------
 ### :woman_technologist: Me, Myself & I :
-
+### [🔥 My Portfolio](https://fulyaertay.netlify.app/)
 
 &emsp;&emsp;&emsp;<font color="pink"> 💻 I'm Computer Engineer but I find myself in software. </font> </br>
-&emsp;&emsp;&emsp;<font color="pink"> 🎆 Exploring routes to new visions and be a part of the new visions. </font>
+&emsp;&emsp;&emsp;<font color="pink"> 🎆 Exploring routes and be a part of the to new visions. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🌱 A new Junior Frontend Developer. </font>
 </br>
