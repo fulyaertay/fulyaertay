@@ -74,9 +74,9 @@
 </div>
 
 
-<div  align="center">
+
 <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center" />
-</div>  
+
      
 ### 💬 Connect with Me  
 <p align="center">
