@@ -9,9 +9,9 @@
 &emsp;&emsp;&emsp;<font color="pink"> 💻 As a software developer, I have a strong foundation in computer science principles. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
-&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font>
-</br>
 &emsp;&emsp;&emsp;<font color="pink"> ☕ Coffee is how I keep up with code.</font> <br>
+&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font>
+
 
 
 ### 💻 Skill, Tool & Software
