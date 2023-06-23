@@ -22,6 +22,8 @@
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
+              <td valign="center" width="100px"><b>Design<b></td>
+                      <td valign="center" width="100px"><b>UI Testing<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -47,19 +49,16 @@
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
       </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Design<b></td>
-    </tr>
-    <tr>
-     <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Figma-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Cypress-blue" /> 
+       <img src="https://img.shields.io/badge/TestRail-blue" />
       </td>
     </tr>
   </table>
+
 </div>
 
 
