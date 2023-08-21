@@ -67,14 +67,15 @@
 
 <div align="center">
   <a href="https://github.com/fulyaertay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fulyaertay&theme=nightowl&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="180px" width="410em" src="https://github-readme-stats.vercel.app/api?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
+      <img height="180px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    <img height="180px"  width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=fulyaertay&theme=nightowl&hide_border=true" />
+
 </div>
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center"  />
  </div>
      
 ### 💬 Connect with Me  
