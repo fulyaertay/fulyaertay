@@ -4,13 +4,14 @@
 
 ----------------------
 
-### :woman_technologist: Me, Myself & I :
+### :woman_technologist: About Me :
 
 &emsp;&emsp;&emsp;<font color="pink"> 💻 As a software developer, I have a strong foundation in computer science principles. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> ☕ Coffee is how I keep up with code.</font> <br>
-&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font>
+&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font></br>
+&emsp;&emsp;&emsp;<font color="pink"> 💬 You can connect me on Linkedin https://www.linkedin.com/mwlite/in/fulya-ertay-40a593156 </font>
 
 
 
@@ -78,13 +79,7 @@
   <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center"  />
  </div>
      
-### 💬 Connect with Me  
-<p align="center">
-<a href="https://www.linkedin.com/mwlite/in/fulya-ertay-40a593156">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
- <a href="https://www.github.com/fulyaertay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="50" /></a> 
-</p>  
+
   
 
 <br/>  
