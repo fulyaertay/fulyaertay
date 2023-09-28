@@ -10,7 +10,7 @@
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font></br>
-&emsp;&emsp;&emsp;<font color="pink"> 💬 You can connect me on Linkedin https://www.linkedin.com/mwlite/in/fulya-ertay-40a593156 </font>
+&emsp;&emsp;&emsp;<font color="pink"> 💬 You can reach me by email: fulya.ertay@gmail.com </font>
 
 
 
