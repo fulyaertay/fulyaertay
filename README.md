@@ -1,6 +1,6 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB0aHFibGI0MjE4c2RuM3VhdnZqNWp0NDBqcWs2dng0MjY4eHNtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&background=000000&center=true&vCenter=true&width=1000&lines=Hello👋+I'm+Fulya.;🌱I'm+a+Frontend+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&background=000000&center=true&vCenter=true&width=1000&lines=Hello👋+I'm+Fulya.;🌱I'm+a+Computer+Engineer!" alt="Typing SVG" /></a>
 <br />
 ### [➡️ My Portfolio](https://fulyaertay.netlify.app/)
 
@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-&emsp;&emsp;&emsp;<font color="pink"> 💻 As a software developer, I have a strong foundation in computer science principles. </font> </br>
+&emsp;&emsp;&emsp;<font color="pink"> 💻 As a computer engineer, I have a strong foundation in software development  principles. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font></br>
