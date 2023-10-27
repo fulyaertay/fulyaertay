@@ -57,6 +57,8 @@
        <img src="https://img.shields.io/badge/Cypress-blue" /> 
        <img src="https://img.shields.io/badge/TestRail-blue" />
        <img src="https://img.shields.io/badge/Codecept-JS-blue"/>
+       <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-IDE-blue">
+
 
      
   </table>
