@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
         <img src="https://img.shields.io/badge/Tailwind-blue" /> 
         <img src="https://img.shields.io/badge/Next-blue" /> 
+        <img src="https://img.shields.io/badge/SASS-blue"/>
          <img src="https://shields.io/badge/TypeScript-3178C6" /> 
       </td>      
       <td valign="center" align="center" width="300px">
