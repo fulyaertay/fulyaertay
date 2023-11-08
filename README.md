@@ -32,10 +32,10 @@
         <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/React-JS-blue" /> 
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
         <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-        <img src="https://img.shields.io/badge/Next-blue" /> 
+        <img src="https://img.shields.io/badge/Next-JS-blue" /> 
         <img src="https://img.shields.io/badge/SASS-blue"/>
          <img src="https://shields.io/badge/TypeScript-blue" /> 
       </td>      
