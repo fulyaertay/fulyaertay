@@ -80,9 +80,7 @@
 </div>
 
   <br> 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center"  />
- </div>
+
      
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuNiZz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -98,10 +96,8 @@
 
 <br/>  
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulyaertay&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fulyaertay&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fulyaertay&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fulyaertay&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fulyaertay&theme=2077" height="180em" />
+  <img src="https://komarev.com/ghpvc/?username=fulyaertay&&style=flat-square" align="center"  />
+ </div>
+
 
 </div>
