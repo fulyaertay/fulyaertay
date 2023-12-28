@@ -53,6 +53,7 @@
       </td>
       <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Canva-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Cypress-blue" /> 
