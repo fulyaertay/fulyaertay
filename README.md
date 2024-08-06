@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-&emsp;&emsp;&emsp;<font color="pink"> 💻 As a computer engineer, I have a strong foundation in software development and testing principles. </font> </br>
+&emsp;&emsp;&emsp;<font color="pink"> 💻 As a software engineer, I have a strong foundation in software development and testing principles. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm always looking for new challenges and opportunities to expand my skills and knowledge. </font></br>
