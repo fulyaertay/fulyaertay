@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Tailwind CSS-blue" /> 
         <img src="https://img.shields.io/badge/Next-JS-blue" /> 
         <img src="https://img.shields.io/badge/SASS-blue"/>
-         <img src="https://shields.io/badge/TypeScript-blue" /> 
+         <img src="https://shields.io/badge/TypeScript-blue" /><img src="https://shields.io/badge/React-Native-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-blue" /> 
