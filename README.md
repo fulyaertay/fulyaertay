@@ -25,6 +25,7 @@
       <td valign="center" width="100px"><b>Backend<b></td>
       <td valign="center" width="100px"><b>Databases<b></td>
               <td valign="center" width="100px"><b>Design<b></td>
+                <td valign="center" width="100px"><b>UI Tools<b></td>
                       <td valign="center" width="100px"><b>UI Testing<b></td>
     </tr>
     <tr>
@@ -55,6 +56,8 @@
        <img src="https://img.shields.io/badge/Figma-blue" /> 
        <img src="https://img.shields.io/badge/Canva-blue" /> 
       </td>
+      <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Material-UI-blue" /> </td>
       <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Cypress-blue" /> 
        <img src="https://img.shields.io/badge/TestRail-blue" />
