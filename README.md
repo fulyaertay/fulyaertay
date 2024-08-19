@@ -43,8 +43,6 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" />     
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
