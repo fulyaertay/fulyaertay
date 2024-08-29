@@ -69,7 +69,7 @@
 
 
 ### 🗃️ My Studies
-### UI Design
+### UI/UX Design
 - [Figma Design for Mobile App](https://github.com/fulyaertay/wooden-furniture-figma-design)
 - [Tailwind CSS Projects](https://github.com/fulyaertay/scrimba-tailwind-projects)
 - [UI Design Challenges of Scrimba Course](https://github.com/fulyaertay/UI-design-challenges)
