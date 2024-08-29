@@ -81,6 +81,7 @@
 - [FalcoWMS - Falco Work Management System using React JS and Node JS](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
 - [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
 - [List Movies Web App using Django](https://github.com/fulyaertay/django-movies-application)
+- [Blog Web App using Django](https://github.com/fulyaertay/Django-Blog-Application)
 - [DJAVAC Project-Bachelors Thesis using C#,.NET](https://github.com/fulyaertay/DJAVAC-App)
 - [Device Tracking App(Internship Project) using Java](https://github.com/fulyaertay/device-tracking-app)
 - [Chat App using Node JS](https://github.com/fulyaertay/nodejs-chat-app)
