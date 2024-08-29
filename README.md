@@ -69,6 +69,30 @@
 </div>
 
 
+### 🗃️ My Studies
+### UI Design
+- [Figma Design for Mobile App](https://github.com/fulyaertay/wooden-furniture-figma-design)
+- [Tailwind CSS Projects](https://github.com/fulyaertay/scrimba-tailwind-projects)
+- [UI Design Challenges of Scrimba Course](https://github.com/fulyaertay/UI-design-challenges)
+### Frontend Web Development Projects
+
+- [Course Projects of Scrimba](https://github.com/fulyaertay/Front-End-Developer-Path)
+### Fullstack Web Development Projects
+- [FalcoWMS - Falco Work Management System using React JS and Node JS](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
+- [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
+- [List Movies Web App using Django](https://github.com/fulyaertay/django-movies-application)
+- [DJAVAC Project-Bachelors Thesis using C#,.NET](https://github.com/fulyaertay/DJAVAC-App)
+- [Device Tracking App(Internship Project) using Java](https://github.com/fulyaertay/device-tracking-app)
+- [Chat App using Node JS)](https://github.com/fulyaertay/nodejs-chat-app)
+
+### React Native Projects
+- [Course Projects of Patika.dev](https://github.com/fulyaertay/React-Native-Mobile-Apps)
+
+### Data Analysis
+- [Python Projects using Pandas](https://github.com/fulyaertay/pandas-exercises)
+
+### Projects using AI Models
+- [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
 
 ### 📊 My GitHub Stats
 
