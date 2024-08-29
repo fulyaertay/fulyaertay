@@ -76,7 +76,7 @@
 ### Frontend Web Development Projects
 
 - [Course Projects of Scrimba](https://github.com/fulyaertay/Front-End-Developer-Path)
-- [My Portolio Website](https://fulyaertay.netlify.app/)
+- [My Portfolio Website](https://fulyaertay.netlify.app/)
 ### Fullstack Web Development Projects
 - [FalcoWMS - Falco Work Management System using React JS and Node JS](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
 - [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
