@@ -11,7 +11,7 @@
 &emsp;&emsp;&emsp;<font color="pink"> 💻 As a software engineer, I have a strong foundation in software development and testing principles. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
 </br>
-&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm currently working on React Native. </font></br>
+&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm currently working on React Native and Generative AI. </font></br>
 &emsp;&emsp;&emsp;<font color="pink"> 💬 You can reach me by email: fulya.ertay@gmail.com </font>
 
 
