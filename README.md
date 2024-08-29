@@ -86,7 +86,7 @@
 - [Device Tracking App(Internship Project) using Java](https://github.com/fulyaertay/device-tracking-app)
 - [Chat App using Node JS](https://github.com/fulyaertay/nodejs-chat-app)
 
-### React Native Projects
+### Mobile App Projects using React Native
 - [Course Projects of Patika.dev](https://github.com/fulyaertay/React-Native-Mobile-Apps)
 
 ### Data Analysis
