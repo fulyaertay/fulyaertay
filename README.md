@@ -83,7 +83,7 @@
 - [List Movies Web App using Django](https://github.com/fulyaertay/django-movies-application)
 - [DJAVAC Project-Bachelors Thesis using C#,.NET](https://github.com/fulyaertay/DJAVAC-App)
 - [Device Tracking App(Internship Project) using Java](https://github.com/fulyaertay/device-tracking-app)
-- [Chat App using Node JS)](https://github.com/fulyaertay/nodejs-chat-app)
+- [Chat App using Node JS](https://github.com/fulyaertay/nodejs-chat-app)
 
 ### React Native Projects
 - [Course Projects of Patika.dev](https://github.com/fulyaertay/React-Native-Mobile-Apps)
