@@ -106,20 +106,31 @@
 
 </div>
 
-  <br> 
+  
 
      
+
+
+<div align="center">
+<a href="https://github.com/fulyaertay">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulyaertay&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fulyaertay&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fulyaertay&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fulyaertay&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fulyaertay&theme=2077" height="180em" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fulyaertay&custom_title=FulyaErtay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="FulyaErtay's Github Activity Graph" width="100%">
+</div>
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuNiZz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fulyaertay&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fulyaertay&custom_title=FulyaErtay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="FulyaErtay's Github Activity Graph" width="100%">
-</div>
-
-  
 
 <br/>  
 <div align="center">
