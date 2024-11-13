@@ -1,17 +1,9 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&background=000000&center=true&vCenter=true&width=1000&lines=Hello👋+I'm+Fulya.;🌱I'm+a+Software+Engineer!" alt="Typing SVG" /></a>
-<br />
 
 ----------------------
 
-### :woman_technologist: About Me :
 
-&emsp;&emsp;&emsp;<font color="pink"> 💻 As a software engineer, I have a strong foundation in software development and testing principles. </font> </br>
-&emsp;&emsp;&emsp;<font color="pink"> 🎆 Passion for creating innovative solutions to complex problems. </font>
-</br>
-&emsp;&emsp;&emsp;<font color="pink"> 🌱 I'm currently working on React Native and Generative AI. </font></br>
-&emsp;&emsp;&emsp;<font color="pink"> 💬 You can reach me by email: fulya.ertay@gmail.com </font>
 
 
 
