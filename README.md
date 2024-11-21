@@ -86,6 +86,7 @@
 
 ### Projects using AI Models
 - [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
+- [Translation App using React JS and Gemini 1.5 Flash Model](https://github.com/fulyaertay/translation-with-ai)
 
 ### 📊 My GitHub Stats
 
