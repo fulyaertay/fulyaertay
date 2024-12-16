@@ -74,8 +74,8 @@
 - [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
 - [List Movies Web App using Django](https://github.com/fulyaertay/django-movies-application)
 - [Blog Web App using Django](https://github.com/fulyaertay/Django-Blog-Application)
-- [DJAVAC Project-Bachelors Thesis using C#,.NET](https://github.com/fulyaertay/DJAVAC-App)
-- [Device Tracking App(Internship Project) using Java RMI](https://github.com/fulyaertay/device-tracking-app)
+- [DJAVAC Project-Bachelors Thesis using Java RMI](https://github.com/fulyaertay/DJAVAC-App)
+- [Device Tracking App(Internship Project) using C#,.NET ](https://github.com/fulyaertay/device-tracking-app)
 - [Chat App using Node JS](https://github.com/fulyaertay/nodejs-chat-app)
 
 ### Mobile App Projects using React Native
