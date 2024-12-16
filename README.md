@@ -70,12 +70,12 @@
 - [React JS Course Projects of Scrimba](https://github.com/fulyaertay/Front-End-Developer-Path)
 - [My Portfolio Website using Next JS and Typescript](https://fulyaertay.netlify.app/)
 ### Fullstack Web Development Projects
-- [FalcoWMS - Falco Work Management System using React JS and Node JS](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
+- [FalcoWMS - Falco Work Management System using React JS, Node JS and Nodemailer Module](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
 - [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
 - [List Movies Web App using Django](https://github.com/fulyaertay/django-movies-application)
 - [Blog Web App using Django](https://github.com/fulyaertay/Django-Blog-Application)
 - [DJAVAC Project-Bachelors Thesis using C#,.NET](https://github.com/fulyaertay/DJAVAC-App)
-- [Device Tracking App(Internship Project) using Java](https://github.com/fulyaertay/device-tracking-app)
+- [Device Tracking App(Internship Project) using Java RMI](https://github.com/fulyaertay/device-tracking-app)
 - [Chat App using Node JS](https://github.com/fulyaertay/nodejs-chat-app)
 
 ### Mobile App Projects using React Native
