@@ -91,6 +91,7 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 - [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
 - [Translation App using React JS and Gemini 1.5 Flash Model](https://github.com/fulyaertay/translation-with-ai)
 - [Data Analysis using Gemini 1.5 Flash Model](https://github.com/fulyaertay/data_analysis-w-ai)
+- [New Year Message Generator with Gemini 1.5 Flash Model](https://github.com/fulyaertay/new_year_with_AI)
 
 ### 📊 My GitHub Stats
 
