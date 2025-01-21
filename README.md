@@ -93,6 +93,11 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 - [Data Analysis using Gemini 1.5 Flash Model](https://github.com/fulyaertay/data_analysis-w-ai)
 - [New Year Message Generator with Gemini 1.5 Flash Model](https://github.com/fulyaertay/new_year_with_AI)
 
+### 🎓 My Achievements
+  - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
+  - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
+  - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
+    
 ### 📊 My GitHub Stats
 
 
@@ -137,7 +142,4 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 
 </div>
 
-### 🎓 My Achievements
-  - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
-  - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
-  - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
+
