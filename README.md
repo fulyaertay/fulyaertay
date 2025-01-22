@@ -97,6 +97,9 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
   - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
   - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
   - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
+
+### 📝 My Blogs
+ - [From the Perspective of a Computer Engineer: Rebuilding the Life](https://medium.com/@fulyaertay/from-the-perspective-of-a-computer-engineer-rebuilding-the-life-2225393bc535)
     
 ### 📊 My GitHub Stats
 
