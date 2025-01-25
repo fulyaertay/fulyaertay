@@ -98,7 +98,9 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
   - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
   - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
 
-    
+### 📝 My Blog Posts
+ - [Python Project with Google Gemini: A Cursor AI Experience](https://medium.com/@fulyaertay/python-project-with-google-gemini-a-cursor-ai-experience-e6dd86690c1e)
+
 ### 📊 My GitHub Stats
 
 
