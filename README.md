@@ -86,6 +86,7 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 ### Data Analysis
 - [Python Projects using Pandas](https://github.com/fulyaertay/pandas-exercises)
 - [Data Analysis using Matplotlib and Seaborn Libraries](https://github.com/fulyaertay/depression_analysis)
+- [Dataset Analysis using Supervised Machine Learning Algorithm:Decision Tree Classifier](https://github.com/fulyaertay/mental_health_detection)
 
 ### Projects using AI Models
 - [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
