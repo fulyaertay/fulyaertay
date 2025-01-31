@@ -94,8 +94,8 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 ### Projects using Generative AI Models
 - [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
 - [Translation App using React JS and Gemini 1.5 Flash Model](https://github.com/fulyaertay/translation-with-ai)
-- [Data Analysis using Gemini 1.5 Flash Model](https://github.com/fulyaertay/data_analysis-w-ai)
-- [New Year Message Generator with Gemini 1.5 Flash Model](https://github.com/fulyaertay/new_year_with_AI)
+- [Data Analysis using Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/data_analysis-w-ai)
+- [New Year Message Generator with Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/new_year_with_AI)
 
 ### 🎓 My Achievements
   - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
