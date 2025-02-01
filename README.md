@@ -104,6 +104,7 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 
 ### 📝 My Blog Posts
  - [Python Project with Google Gemini: A Cursor AI Experience](https://medium.com/@fulyaertay/python-project-with-google-gemini-a-cursor-ai-experience-e6dd86690c1e)
+ - [Machine Learning Algorithms](https://medium.com/@fulyaertay/machine-learning-algorithms-45010a5e1e9d)
 
 ### 📊 My GitHub Stats
 
