@@ -96,6 +96,7 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 - [Translation App using React JS and Gemini 1.5 Flash Model](https://github.com/fulyaertay/translation-with-ai)
 - [Data Analysis using Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/data_analysis-w-ai)
 - [New Year Message Generator with Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/new_year_with_AI)
+- [Document Analysis with Mistral AI and React JS](https://github.com/fulyaertay/document_validator)
 
 
 ### 🎓 My Achievements
