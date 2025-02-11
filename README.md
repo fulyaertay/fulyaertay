@@ -96,17 +96,14 @@ Coding has been a journey of both technology and self-discovery. For over 10 yea
 - [Translation App using React JS and Gemini 1.5 Flash Model](https://github.com/fulyaertay/translation-with-ai)
 - [Data Analysis using Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/data_analysis-w-ai)
 - [New Year Message Generator with Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/new_year_with_AI)
-- [Document Analysis from a given URL with Mistral AI and React JS](https://github.com/fulyaertay/document_validator)
+
 
 ### 🎓 My Achievements
   - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
   - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
   - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
 
-### 📝 My Blog Posts
- - [Python Project with Google Gemini: A Cursor AI Experience](https://medium.com/@fulyaertay/python-project-with-google-gemini-a-cursor-ai-experience-e6dd86690c1e)
- - [Machine Learning Algorithms](https://medium.com/@fulyaertay/machine-learning-algorithms-45010a5e1e9d)
- - [The One of the Most Popular Generative AI Tools: Mistral AI](https://medium.com/@fulyaertay/mistral-ai-0f616313c692)
+
 
 ### 📊 My GitHub Stats
 
