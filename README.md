@@ -1,13 +1,7 @@
 
 
 
-----------------------
-
-
-### ✍🏻About Me
-
-Coding has been a journey of both technology and self-discovery. For over 10 years, I’ve developed web and mobile applications, and worked on full-stack projects. While this journey has sometimes been exhausting, I’ve learned something new with each project I’ve developed and every person I’ve collaborated with. The projects here reflect that process.
-
+------------------
 
 ### 💻 Skill, Tool & Software
 
