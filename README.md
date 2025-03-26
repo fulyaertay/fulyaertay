@@ -92,6 +92,7 @@
 - [New Year Message Generator with Gemini 1.5 Flash Model and Python](https://github.com/fulyaertay/new_year_with_AI)
 - [Document Analysis with Mistral AI and React JS](https://github.com/fulyaertay/document_validator)
 - [My CodeAgent on Hugging Face Space](https://github.com/fulyaertay/CodeAgent)
+- [User Manual AI Agent](https://github.com/fulyaertay/user-manual-asistant)
 
 
 ### 🎓 My Achievements
