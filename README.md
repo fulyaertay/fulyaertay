@@ -94,15 +94,6 @@
 - [My CodeAgent on Hugging Face Space](https://github.com/fulyaertay/CodeAgent)
 - [User Manual AI Agent](https://github.com/fulyaertay/user-manual-asistant)
 
-
-### 🎓 My Achievements
-  - [Data Science Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Data%20Science%20Certifications)
-  - [Front-End Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Front-End%20Development%20Certifications)
-  - [Mobile Development Certifications](https://github.com/fulyaertay/fulyaertay/tree/main/My%20Achievements/Mobile%20Development%20Certifications)
-  - [Certificate of Fundamentals of Agents](https://raw.githubusercontent.com/fulyaertay/fulyaertay/refs/heads/main/My%20Achievements/Certificate_of_Achievement_Hugging_Face_Agent_Course.webp)
-
-
-
 ### 📊 My GitHub Stats
 
 
