@@ -65,6 +65,7 @@
 
 - [React JS Course Projects of Scrimba](https://github.com/fulyaertay/Front-End-Developer-Path)
 - [My Portfolio Website using Next JS and Typescript](https://fulyaertay.netlify.app/)
+- [Portfolio Website Creator using Next JS and Typescrip](https://github.com/fulyaertay/portfolio-creator)
 ### Fullstack Web Development Projects
 - [FalcoWMS - Falco Work Management System using React JS, Node JS and Nodemailer Module](https://github.com/fulyaertay/FalcoWMS-Is-Yonetim-Sistemi)
 - [Book Application Web App using React JS and Node JS](https://github.com/fulyaertay/react-mysql-book-application)
