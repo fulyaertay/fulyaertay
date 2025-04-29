@@ -77,6 +77,7 @@
 
 ### Mobile App Projects using React Native
 - [Course Projects of Patika.dev](https://github.com/fulyaertay/React-Native-Mobile-Apps)
+- [Portfolio Builder App with React Native](https://github.com/fulyaertay/portfolio-builder-mobile-app)
 
 
 ### Machine Learning Projects with Python
