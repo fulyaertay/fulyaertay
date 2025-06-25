@@ -96,6 +96,7 @@
 - [Document Analysis with Mistral AI and React JS](https://github.com/fulyaertay/document_validator)
 - [My CodeAgent on Hugging Face Space](https://github.com/fulyaertay/CodeAgent)
 - [User Manual AI Agent](https://github.com/fulyaertay/user-manual-asistant)
+- [Listing Latest AI News with the help of Gemini CLI](https://github.com/fulyaertay/ai-trends-news)
 
 ### 📊 My GitHub Stats
 
