@@ -98,6 +98,9 @@
 - [User Manual AI Agent](https://github.com/fulyaertay/user-manual-asistant)
 - [Listing Latest AI News with the help of Gemini CLI](https://github.com/fulyaertay/ai-trends-news)
 
+### Deep Learning Projects
+- [YOLOv8-Object-Detection-Application](https://github.com/fulyaertay/YOLOv8-Object-Detection-Application)
+
 ### 📊 My GitHub Stats
 
 
