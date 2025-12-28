@@ -87,7 +87,7 @@
 - [Dataset Analysis using Supervised Machine Learning Algorithm: Linear Regression](https://github.com/fulyaertay/salary_data_analysis)
 - [Dataset Analysis using Unsupervised Machine Learning Algorithm: K-Means Clustering](https://github.com/fulyaertay/customer-segmentation)
 - [Finding Errors Project using Reinforcement Learning:Q-learning Algorithm](https://github.com/fulyaertay/finding_doc_errors)
-- Sentiment Analysis Homework(NLP Lesson Homework)
+- [Sentiment Analysis Homework(NLP Lesson Homework)](https://github.com/fulyaertay/NLP-Sentiment-Analysis-Assignment)
   
 ### Projects using Generative AI Models
 - [ChatBot with React JS and GPT-3 model](https://github.com/fulyaertay/chatbot-with-gpt-3)
